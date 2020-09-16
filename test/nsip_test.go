@@ -4,7 +4,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/tickemaster/nitro-go-sdk/client"
+	"github.com/ticketmaster/nitro-go-sdk/client"
 )
 
 func TestGetNsip(t *testing.T) {

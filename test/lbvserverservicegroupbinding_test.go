@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/tickemaster/nitro-go-sdk/client"
-	"github.com/tickemaster/nitro-go-sdk/model"
+	"github.com/ticketmaster/nitro-go-sdk/client"
+	"github.com/ticketmaster/nitro-go-sdk/model"
 )
 
 // TestAddDeleteLbvserverServicegroupBinding creates a resource and deletes it.

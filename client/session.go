@@ -11,7 +11,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/tickemaster/nitro-go-sdk/model"
+	"github.com/ticketmaster/nitro-go-sdk/model"
 )
 
 // Login struct

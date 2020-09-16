@@ -3,8 +3,8 @@ package test
 import (
 	"testing"
 
-	"github.com/tickemaster/nitro-go-sdk/client"
-	"github.com/tickemaster/nitro-go-sdk/model"
+	"github.com/ticketmaster/nitro-go-sdk/client"
+	"github.com/ticketmaster/nitro-go-sdk/model"
 )
 
 // TestAddDeleteSslcipherSslciphersuiteBinding creates a ssl group binding and then deletes it.

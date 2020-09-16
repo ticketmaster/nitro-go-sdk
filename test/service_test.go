@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/tickemaster/nitro-go-sdk/client"
-	"github.com/tickemaster/nitro-go-sdk/model"
+	"github.com/ticketmaster/nitro-go-sdk/client"
+	"github.com/ticketmaster/nitro-go-sdk/model"
 )
 
 // NOTE: You can test memberport (shared port across all backends), but you will need to also set autoscale.

@@ -1,4 +1,4 @@
-module github.com/tickemaster/nitro-go-sdk
+module github.com/ticketmaster/nitro-go-sdk
 
 go 1.14
 

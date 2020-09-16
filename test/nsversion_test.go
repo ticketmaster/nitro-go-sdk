@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/tickemaster/nitro-go-sdk/client"
+	"github.com/ticketmaster/nitro-go-sdk/client"
 )
 
 // TestGetNsversion returns nsversion

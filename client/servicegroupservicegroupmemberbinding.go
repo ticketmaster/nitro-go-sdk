@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/tickemaster/nitro-go-sdk/model"
+	"github.com/ticketmaster/nitro-go-sdk/model"
 )
 
 // GetServicegroupServicegroupmemberBindings returns all records of the specific resource.

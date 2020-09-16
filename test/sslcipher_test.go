@@ -3,8 +3,8 @@ package test
 import (
 	"testing"
 
-	"github.com/tickemaster/nitro-go-sdk/client"
-	"github.com/tickemaster/nitro-go-sdk/model"
+	"github.com/ticketmaster/nitro-go-sdk/client"
+	"github.com/ticketmaster/nitro-go-sdk/model"
 )
 
 // TestAddDeleteSSLCipherGroup creates a cipher group and deletes it.

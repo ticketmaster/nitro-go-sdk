@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/tickemaster/nitro-go-sdk/client"
-	"github.com/tickemaster/nitro-go-sdk/model"
+	"github.com/ticketmaster/nitro-go-sdk/client"
+	"github.com/ticketmaster/nitro-go-sdk/model"
 )
 
 func TestAddDeleteSslvserver(t *testing.T) {

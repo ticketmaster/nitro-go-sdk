@@ -3,7 +3,7 @@ package client
 import (
 	"errors"
 
-	"github.com/tickemaster/nitro-go-sdk/model"
+	"github.com/ticketmaster/nitro-go-sdk/model"
 )
 
 // GetServicegroupBindings returns a single record matching the resource identfier.

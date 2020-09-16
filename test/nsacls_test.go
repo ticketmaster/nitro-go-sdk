@@ -3,7 +3,7 @@ package test
 import (
 	"testing"
 
-	"github.com/tickemaster/nitro-go-sdk/client"
+	"github.com/ticketmaster/nitro-go-sdk/client"
 )
 
 func TestClearNsacls(t *testing.T) {
